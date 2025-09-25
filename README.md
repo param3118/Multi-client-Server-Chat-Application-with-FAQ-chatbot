@@ -577,20 +577,14 @@ git push origin feature/new-feature
 
 ## 👨‍💻 Author
 
-**PARAMJEET SINGH** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+**PARAMJEET SINGH** 
 
 
-
-## 🙏 Acknowledgments
-
-- POSIX threads documentation
-- Linux socket programming guides  
-- Systems programming community
-- Open source contributors
 
 
 **⭐ Star this repository if it helped you! ⭐**
 
 [🔝 Back to Top](#-multi-threaded-chat-server-with-authentication--file-transfer)
+
 
 </div>

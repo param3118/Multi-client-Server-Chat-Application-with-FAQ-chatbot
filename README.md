@@ -530,27 +530,6 @@ lsof -p $(pgrep server)
 
 
 
-## 📁 Project Structure
-
-chat-server/
-├── 📄 server.c # Main server implementation
-├── 📄 client.c # Client application
-├── 🔧 server # Compiled server binary
-├── 🔧 client # Compiled client binary
-├── 💾 users.db # User database (auto-created)
-├── 📁 uploads/ # Server file storage directory
-├── 📁 downloads/ # Client download directory
-├── 📄 README.md # Project documentation
-├── 📄 Makefile # Build automation (optional)
-└── 📁 tests/ # Test scripts (optional)
-├── test_concurrent.sh # Concurrent user testing
-├── test_performance.sh # Performance benchmarking
-└── test_stress.sh # Stress testing
-
-
-
-
-
 ## 🤝 Contributing
 
 ### Development Setup
@@ -588,3 +567,4 @@ git push origin feature/new-feature
 
 
 </div>
+

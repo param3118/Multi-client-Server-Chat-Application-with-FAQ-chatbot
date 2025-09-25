@@ -1,0 +1,337 @@
+2025-08-23 06:47:17 - === Chat Server Full Test Started ===
+2025-08-23 06:47:17 - Starting server...
+2025-08-23 06:47:20 - Checking baseline memory usage
+2025-08-23 06:47:20 - Baseline memory:  1140 KB
+2025-08-23 06:47:20 - Adding 1000 users to users.db
+2025-08-23 06:47:42 - Added 1000 users
+2025-08-23 06:47:42 - Testing maximum concurrent clients (~50)
+2025-08-23 06:47:42 - Client 1 connected
+2025-08-23 06:47:42 - Client 2 connected
+2025-08-23 06:47:42 - Client 3 connected
+2025-08-23 06:47:42 - Client 4 connected
+2025-08-23 06:47:42 - Client 5 connected
+2025-08-23 06:47:42 - Client 6 connected
+2025-08-23 06:47:42 - Client 7 connected
+2025-08-23 06:47:42 - Client 8 connected
+2025-08-23 06:47:42 - Client 9 connected
+2025-08-23 06:47:42 - Client 10 connected
+2025-08-23 06:47:42 - Client 11 connected
+2025-08-23 06:47:42 - Client 12 connected
+2025-08-23 06:47:42 - Client 13 connected
+2025-08-23 06:47:43 - Client 14 connected
+2025-08-23 06:47:43 - Client 15 connected
+2025-08-23 06:47:43 - Client 16 connected
+2025-08-23 06:47:43 - Client 17 connected
+2025-08-23 06:47:43 - Client 18 connected
+2025-08-23 06:47:43 - Client 19 connected
+2025-08-23 06:47:43 - Client 20 connected
+2025-08-23 06:47:43 - Client 21 connected
+2025-08-23 06:47:43 - Client 22 connected
+2025-08-23 06:47:43 - Client 23 connected
+2025-08-23 06:47:43 - Client 24 connected
+2025-08-23 06:47:43 - Client 25 connected
+2025-08-23 06:47:43 - Client 26 connected
+2025-08-23 06:47:43 - Client 27 connected
+2025-08-23 06:47:43 - Client 28 connected
+2025-08-23 06:47:43 - Client 29 connected
+2025-08-23 06:47:43 - Client 30 connected
+2025-08-23 06:47:44 - Client 31 connected
+2025-08-23 06:47:44 - Client 32 connected
+2025-08-23 06:47:44 - Client 33 connected
+2025-08-23 06:47:44 - Client 34 connected
+2025-08-23 06:47:44 - Client 35 connected
+2025-08-23 06:47:44 - Client 36 connected
+2025-08-23 06:47:44 - Client 37 connected
+2025-08-23 06:47:44 - Client 38 connected
+2025-08-23 06:47:44 - Client 39 connected
+2025-08-23 06:47:44 - Client 40 connected
+2025-08-23 06:47:44 - Client 41 connected
+2025-08-23 06:47:44 - Client 42 connected
+2025-08-23 06:47:44 - Client 43 connected
+2025-08-23 06:47:44 - Client 44 connected
+2025-08-23 06:47:44 - Client 45 connected
+2025-08-23 06:47:44 - Client 46 connected
+2025-08-23 06:47:44 - Client 47 connected
+2025-08-23 06:47:45 - Client 48 connected
+2025-08-23 06:47:45 - Client 49 connected
+2025-08-23 06:47:45 - Client 50 connected
+2025-08-23 06:48:00 - Memory after clients connected:  1492 KB
+2025-08-23 06:48:00 - Approximate memory per client: 7 KB
+2025-08-23 06:48:00 - Testing message latency
+2025-08-23 06:48:05 - Latency test completed
+2025-08-23 06:48:05 - Starting 30-minute stress test for uptime and connection stability
+2025-08-23 06:48:05 - Connection failed at Sat Aug 23 06:48:05 UTC 2025
+2025-08-23 06:48:10 - Connection failed at Sat Aug 23 06:48:10 UTC 2025
+2025-08-23 06:48:15 - Connection failed at Sat Aug 23 06:48:15 UTC 2025
+2025-08-23 06:48:20 - Connection failed at Sat Aug 23 06:48:20 UTC 2025
+2025-08-23 06:48:25 - Connection failed at Sat Aug 23 06:48:25 UTC 2025
+2025-08-23 06:48:30 - Connection failed at Sat Aug 23 06:48:30 UTC 2025
+2025-08-23 06:48:35 - Connection failed at Sat Aug 23 06:48:35 UTC 2025
+2025-08-23 06:48:40 - Connection failed at Sat Aug 23 06:48:40 UTC 2025
+2025-08-23 06:48:45 - Connection failed at Sat Aug 23 06:48:45 UTC 2025
+2025-08-23 06:48:50 - Connection failed at Sat Aug 23 06:48:50 UTC 2025
+2025-08-23 06:48:55 - Connection failed at Sat Aug 23 06:48:55 UTC 2025
+2025-08-23 06:49:00 - Connection failed at Sat Aug 23 06:49:00 UTC 2025
+2025-08-23 06:49:05 - Connection failed at Sat Aug 23 06:49:05 UTC 2025
+2025-08-23 06:49:10 - Connection failed at Sat Aug 23 06:49:10 UTC 2025
+2025-08-23 06:49:15 - Connection failed at Sat Aug 23 06:49:15 UTC 2025
+2025-08-23 06:49:21 - Connection failed at Sat Aug 23 06:49:21 UTC 2025
+2025-08-23 06:49:26 - Connection failed at Sat Aug 23 06:49:26 UTC 2025
+2025-08-23 06:49:31 - Connection failed at Sat Aug 23 06:49:31 UTC 2025
+2025-08-23 06:49:36 - Connection failed at Sat Aug 23 06:49:36 UTC 2025
+2025-08-23 06:49:41 - Connection failed at Sat Aug 23 06:49:41 UTC 2025
+2025-08-23 06:49:46 - Connection failed at Sat Aug 23 06:49:46 UTC 2025
+2025-08-23 06:49:51 - Connection failed at Sat Aug 23 06:49:51 UTC 2025
+2025-08-23 06:49:56 - Connection failed at Sat Aug 23 06:49:56 UTC 2025
+2025-08-23 06:50:01 - Connection failed at Sat Aug 23 06:50:01 UTC 2025
+2025-08-23 06:50:06 - Connection failed at Sat Aug 23 06:50:06 UTC 2025
+2025-08-23 06:50:11 - Connection failed at Sat Aug 23 06:50:11 UTC 2025
+2025-08-23 06:50:16 - Connection failed at Sat Aug 23 06:50:16 UTC 2025
+2025-08-23 06:50:21 - Connection failed at Sat Aug 23 06:50:21 UTC 2025
+2025-08-23 06:50:26 - Connection failed at Sat Aug 23 06:50:26 UTC 2025
+2025-08-23 06:50:31 - Connection failed at Sat Aug 23 06:50:31 UTC 2025
+2025-08-23 06:50:36 - Connection failed at Sat Aug 23 06:50:36 UTC 2025
+2025-08-23 06:50:41 - Connection failed at Sat Aug 23 06:50:41 UTC 2025
+2025-08-23 06:50:46 - Connection failed at Sat Aug 23 06:50:46 UTC 2025
+2025-08-23 06:50:51 - Connection failed at Sat Aug 23 06:50:51 UTC 2025
+2025-08-23 06:50:56 - Connection failed at Sat Aug 23 06:50:56 UTC 2025
+2025-08-23 06:51:01 - Connection failed at Sat Aug 23 06:51:01 UTC 2025
+2025-08-23 06:51:06 - Connection failed at Sat Aug 23 06:51:06 UTC 2025
+2025-08-23 06:51:11 - Connection failed at Sat Aug 23 06:51:11 UTC 2025
+2025-08-23 06:51:16 - Connection failed at Sat Aug 23 06:51:16 UTC 2025
+2025-08-23 06:51:21 - Connection failed at Sat Aug 23 06:51:21 UTC 2025
+2025-08-23 06:51:26 - Connection failed at Sat Aug 23 06:51:26 UTC 2025
+2025-08-23 06:51:31 - Connection failed at Sat Aug 23 06:51:31 UTC 2025
+2025-08-23 06:51:36 - Connection failed at Sat Aug 23 06:51:36 UTC 2025
+2025-08-23 06:51:42 - Connection failed at Sat Aug 23 06:51:42 UTC 2025
+2025-08-23 06:51:47 - Connection failed at Sat Aug 23 06:51:47 UTC 2025
+2025-08-23 06:51:52 - Connection failed at Sat Aug 23 06:51:52 UTC 2025
+2025-08-23 06:51:57 - Connection failed at Sat Aug 23 06:51:57 UTC 2025
+2025-08-23 06:52:02 - Connection failed at Sat Aug 23 06:52:02 UTC 2025
+2025-08-23 06:52:07 - Connection failed at Sat Aug 23 06:52:07 UTC 2025
+2025-08-23 06:52:12 - Connection failed at Sat Aug 23 06:52:12 UTC 2025
+2025-08-23 06:52:17 - Connection failed at Sat Aug 23 06:52:17 UTC 2025
+2025-08-23 06:52:22 - Connection failed at Sat Aug 23 06:52:22 UTC 2025
+2025-08-23 06:52:27 - Connection failed at Sat Aug 23 06:52:27 UTC 2025
+2025-08-23 06:52:32 - Connection failed at Sat Aug 23 06:52:32 UTC 2025
+2025-08-23 06:52:37 - Connection failed at Sat Aug 23 06:52:37 UTC 2025
+2025-08-23 06:52:42 - Connection failed at Sat Aug 23 06:52:42 UTC 2025
+2025-08-23 06:52:47 - Connection failed at Sat Aug 23 06:52:47 UTC 2025
+2025-08-23 06:52:52 - Connection failed at Sat Aug 23 06:52:52 UTC 2025
+2025-08-23 06:52:57 - Connection failed at Sat Aug 23 06:52:57 UTC 2025
+2025-08-23 06:53:02 - Connection failed at Sat Aug 23 06:53:02 UTC 2025
+2025-08-23 06:53:07 - Connection failed at Sat Aug 23 06:53:07 UTC 2025
+2025-08-23 06:53:12 - Connection failed at Sat Aug 23 06:53:12 UTC 2025
+2025-08-23 06:53:17 - Connection failed at Sat Aug 23 06:53:17 UTC 2025
+2025-08-23 06:53:22 - Connection failed at Sat Aug 23 06:53:22 UTC 2025
+2025-08-23 06:53:27 - Connection failed at Sat Aug 23 06:53:27 UTC 2025
+2025-08-23 06:53:32 - Connection failed at Sat Aug 23 06:53:32 UTC 2025
+2025-08-23 06:53:37 - Connection failed at Sat Aug 23 06:53:37 UTC 2025
+2025-08-23 06:53:42 - Connection failed at Sat Aug 23 06:53:42 UTC 2025
+2025-08-23 06:53:48 - Connection failed at Sat Aug 23 06:53:48 UTC 2025
+2025-08-23 06:53:53 - Connection failed at Sat Aug 23 06:53:53 UTC 2025
+2025-08-23 06:53:58 - Connection failed at Sat Aug 23 06:53:58 UTC 2025
+2025-08-23 06:54:03 - Connection failed at Sat Aug 23 06:54:03 UTC 2025
+2025-08-23 06:54:08 - Connection failed at Sat Aug 23 06:54:08 UTC 2025
+2025-08-23 06:54:13 - Connection failed at Sat Aug 23 06:54:13 UTC 2025
+2025-08-23 06:54:18 - Connection failed at Sat Aug 23 06:54:18 UTC 2025
+2025-08-23 06:54:23 - Connection failed at Sat Aug 23 06:54:23 UTC 2025
+2025-08-23 06:54:28 - Connection failed at Sat Aug 23 06:54:28 UTC 2025
+2025-08-23 06:54:33 - Connection failed at Sat Aug 23 06:54:33 UTC 2025
+2025-08-23 06:54:38 - Connection failed at Sat Aug 23 06:54:38 UTC 2025
+2025-08-23 06:54:43 - Connection failed at Sat Aug 23 06:54:43 UTC 2025
+2025-08-23 06:54:48 - Connection failed at Sat Aug 23 06:54:48 UTC 2025
+2025-08-23 06:54:53 - Connection failed at Sat Aug 23 06:54:53 UTC 2025
+2025-08-23 06:54:58 - Connection failed at Sat Aug 23 06:54:58 UTC 2025
+2025-08-23 06:55:03 - Connection failed at Sat Aug 23 06:55:03 UTC 2025
+2025-08-23 06:55:08 - Connection failed at Sat Aug 23 06:55:08 UTC 2025
+2025-08-23 06:55:13 - Connection failed at Sat Aug 23 06:55:13 UTC 2025
+2025-08-23 06:55:18 - Connection failed at Sat Aug 23 06:55:18 UTC 2025
+2025-08-23 06:55:23 - Connection failed at Sat Aug 23 06:55:23 UTC 2025
+2025-08-23 06:55:28 - Connection failed at Sat Aug 23 06:55:28 UTC 2025
+2025-08-23 06:55:33 - Connection failed at Sat Aug 23 06:55:33 UTC 2025
+2025-08-23 06:55:38 - Connection failed at Sat Aug 23 06:55:38 UTC 2025
+2025-08-23 06:55:43 - Connection failed at Sat Aug 23 06:55:43 UTC 2025
+2025-08-23 06:55:48 - Connection failed at Sat Aug 23 06:55:48 UTC 2025
+2025-08-23 06:55:53 - Connection failed at Sat Aug 23 06:55:53 UTC 2025
+2025-08-23 06:55:59 - Connection failed at Sat Aug 23 06:55:59 UTC 2025
+2025-08-23 06:56:04 - Connection failed at Sat Aug 23 06:56:04 UTC 2025
+2025-08-23 06:56:09 - Connection failed at Sat Aug 23 06:56:09 UTC 2025
+2025-08-23 06:56:14 - Connection failed at Sat Aug 23 06:56:14 UTC 2025
+2025-08-23 06:56:19 - Connection failed at Sat Aug 23 06:56:19 UTC 2025
+2025-08-23 06:56:24 - Connection failed at Sat Aug 23 06:56:24 UTC 2025
+2025-08-23 06:56:29 - Connection failed at Sat Aug 23 06:56:29 UTC 2025
+2025-08-23 06:56:34 - Connection failed at Sat Aug 23 06:56:34 UTC 2025
+2025-08-23 06:56:39 - Connection failed at Sat Aug 23 06:56:39 UTC 2025
+2025-08-23 06:56:44 - Connection failed at Sat Aug 23 06:56:44 UTC 2025
+2025-08-23 06:56:49 - Connection failed at Sat Aug 23 06:56:49 UTC 2025
+2025-08-23 06:56:54 - Connection failed at Sat Aug 23 06:56:54 UTC 2025
+2025-08-23 06:56:59 - Connection failed at Sat Aug 23 06:56:59 UTC 2025
+2025-08-23 06:57:04 - Connection failed at Sat Aug 23 06:57:04 UTC 2025
+2025-08-23 06:57:09 - Connection failed at Sat Aug 23 06:57:09 UTC 2025
+2025-08-23 06:57:14 - Connection failed at Sat Aug 23 06:57:14 UTC 2025
+2025-08-23 06:57:19 - Connection failed at Sat Aug 23 06:57:19 UTC 2025
+2025-08-23 06:57:24 - Connection failed at Sat Aug 23 06:57:24 UTC 2025
+2025-08-23 06:57:29 - Connection failed at Sat Aug 23 06:57:29 UTC 2025
+2025-08-23 06:57:34 - Connection failed at Sat Aug 23 06:57:34 UTC 2025
+2025-08-23 06:57:39 - Connection failed at Sat Aug 23 06:57:39 UTC 2025
+2025-08-23 06:57:44 - Connection failed at Sat Aug 23 06:57:44 UTC 2025
+2025-08-23 06:57:49 - Connection failed at Sat Aug 23 06:57:49 UTC 2025
+2025-08-23 06:57:54 - Connection failed at Sat Aug 23 06:57:54 UTC 2025
+2025-08-23 06:57:59 - Connection failed at Sat Aug 23 06:57:59 UTC 2025
+2025-08-23 06:58:04 - Connection failed at Sat Aug 23 06:58:04 UTC 2025
+2025-08-23 06:58:09 - Connection failed at Sat Aug 23 06:58:09 UTC 2025
+2025-08-23 06:58:15 - Connection failed at Sat Aug 23 06:58:15 UTC 2025
+2025-08-23 06:58:20 - Connection failed at Sat Aug 23 06:58:20 UTC 2025
+2025-08-23 06:58:25 - Connection failed at Sat Aug 23 06:58:25 UTC 2025
+2025-08-23 06:58:30 - Connection failed at Sat Aug 23 06:58:30 UTC 2025
+2025-08-23 06:58:35 - Connection failed at Sat Aug 23 06:58:35 UTC 2025
+2025-08-23 06:58:40 - Connection failed at Sat Aug 23 06:58:40 UTC 2025
+2025-08-23 06:58:45 - Connection failed at Sat Aug 23 06:58:45 UTC 2025
+2025-08-23 06:58:50 - Connection failed at Sat Aug 23 06:58:50 UTC 2025
+2025-08-23 06:58:55 - Connection failed at Sat Aug 23 06:58:55 UTC 2025
+2025-08-23 06:59:00 - Connection failed at Sat Aug 23 06:59:00 UTC 2025
+2025-08-23 06:59:05 - Connection failed at Sat Aug 23 06:59:05 UTC 2025
+2025-08-23 06:59:10 - Connection failed at Sat Aug 23 06:59:10 UTC 2025
+2025-08-23 06:59:15 - Connection failed at Sat Aug 23 06:59:15 UTC 2025
+2025-08-23 06:59:20 - Connection failed at Sat Aug 23 06:59:20 UTC 2025
+2025-08-23 06:59:25 - Connection failed at Sat Aug 23 06:59:25 UTC 2025
+2025-08-23 06:59:30 - Connection failed at Sat Aug 23 06:59:30 UTC 2025
+2025-08-23 06:59:35 - Connection failed at Sat Aug 23 06:59:35 UTC 2025
+2025-08-23 06:59:40 - Connection failed at Sat Aug 23 06:59:40 UTC 2025
+2025-08-23 06:59:45 - Connection failed at Sat Aug 23 06:59:45 UTC 2025
+2025-08-23 06:59:50 - Connection failed at Sat Aug 23 06:59:50 UTC 2025
+2025-08-23 06:59:55 - Connection failed at Sat Aug 23 06:59:55 UTC 2025
+2025-08-23 07:00:00 - Connection failed at Sat Aug 23 07:00:00 UTC 2025
+2025-08-23 07:00:05 - Connection failed at Sat Aug 23 07:00:05 UTC 2025
+2025-08-23 07:00:10 - Connection failed at Sat Aug 23 07:00:10 UTC 2025
+2025-08-23 07:00:15 - Connection failed at Sat Aug 23 07:00:15 UTC 2025
+2025-08-23 07:00:20 - Connection failed at Sat Aug 23 07:00:20 UTC 2025
+2025-08-23 07:00:26 - Connection failed at Sat Aug 23 07:00:26 UTC 2025
+2025-08-23 07:00:31 - Connection failed at Sat Aug 23 07:00:31 UTC 2025
+2025-08-23 07:00:36 - Connection failed at Sat Aug 23 07:00:36 UTC 2025
+2025-08-23 07:00:41 - Connection failed at Sat Aug 23 07:00:41 UTC 2025
+2025-08-23 07:00:46 - Connection failed at Sat Aug 23 07:00:46 UTC 2025
+2025-08-23 07:00:51 - Connection failed at Sat Aug 23 07:00:51 UTC 2025
+2025-08-23 07:00:56 - Connection failed at Sat Aug 23 07:00:56 UTC 2025
+2025-08-23 07:01:01 - Connection failed at Sat Aug 23 07:01:01 UTC 2025
+2025-08-23 07:01:06 - Connection failed at Sat Aug 23 07:01:06 UTC 2025
+2025-08-23 07:01:11 - Connection failed at Sat Aug 23 07:01:11 UTC 2025
+2025-08-23 07:01:16 - Connection failed at Sat Aug 23 07:01:16 UTC 2025
+2025-08-23 07:01:21 - Connection failed at Sat Aug 23 07:01:21 UTC 2025
+2025-08-23 07:01:26 - Connection failed at Sat Aug 23 07:01:26 UTC 2025
+2025-08-23 07:01:31 - Connection failed at Sat Aug 23 07:01:31 UTC 2025
+2025-08-23 07:01:36 - Connection failed at Sat Aug 23 07:01:36 UTC 2025
+2025-08-23 07:01:41 - Connection failed at Sat Aug 23 07:01:41 UTC 2025
+2025-08-23 07:01:46 - Connection failed at Sat Aug 23 07:01:46 UTC 2025
+2025-08-23 07:01:51 - Connection failed at Sat Aug 23 07:01:51 UTC 2025
+2025-08-23 07:01:56 - Connection failed at Sat Aug 23 07:01:56 UTC 2025
+2025-08-23 07:02:01 - Connection failed at Sat Aug 23 07:02:01 UTC 2025
+2025-08-23 07:02:06 - Connection failed at Sat Aug 23 07:02:06 UTC 2025
+2025-08-23 07:02:11 - Connection failed at Sat Aug 23 07:02:11 UTC 2025
+2025-08-23 07:02:16 - Connection failed at Sat Aug 23 07:02:16 UTC 2025
+2025-08-23 07:02:21 - Connection failed at Sat Aug 23 07:02:21 UTC 2025
+2025-08-23 07:02:26 - Connection failed at Sat Aug 23 07:02:26 UTC 2025
+2025-08-23 07:02:31 - Connection failed at Sat Aug 23 07:02:31 UTC 2025
+2025-08-23 07:02:36 - Connection failed at Sat Aug 23 07:02:36 UTC 2025
+2025-08-23 07:02:41 - Connection failed at Sat Aug 23 07:02:41 UTC 2025
+2025-08-23 07:02:47 - Connection failed at Sat Aug 23 07:02:47 UTC 2025
+2025-08-23 07:02:52 - Connection failed at Sat Aug 23 07:02:52 UTC 2025
+2025-08-23 07:02:57 - Connection failed at Sat Aug 23 07:02:57 UTC 2025
+2025-08-23 07:03:02 - Connection failed at Sat Aug 23 07:03:02 UTC 2025
+2025-08-23 07:03:07 - Connection failed at Sat Aug 23 07:03:07 UTC 2025
+2025-08-23 07:03:12 - Connection failed at Sat Aug 23 07:03:12 UTC 2025
+2025-08-23 07:03:17 - Connection failed at Sat Aug 23 07:03:17 UTC 2025
+2025-08-23 07:03:22 - Connection failed at Sat Aug 23 07:03:22 UTC 2025
+2025-08-23 07:03:27 - Connection failed at Sat Aug 23 07:03:27 UTC 2025
+2025-08-23 07:03:32 - Connection failed at Sat Aug 23 07:03:32 UTC 2025
+2025-08-23 07:03:37 - Connection failed at Sat Aug 23 07:03:37 UTC 2025
+2025-08-23 07:03:42 - Connection failed at Sat Aug 23 07:03:42 UTC 2025
+2025-08-23 07:03:47 - Connection failed at Sat Aug 23 07:03:47 UTC 2025
+2025-08-23 07:03:52 - Connection failed at Sat Aug 23 07:03:52 UTC 2025
+2025-08-23 07:03:57 - Connection failed at Sat Aug 23 07:03:57 UTC 2025
+2025-08-23 07:04:02 - Connection failed at Sat Aug 23 07:04:02 UTC 2025
+2025-08-23 07:04:07 - Connection failed at Sat Aug 23 07:04:07 UTC 2025
+2025-08-23 07:04:12 - Connection failed at Sat Aug 23 07:04:12 UTC 2025
+2025-08-23 07:04:17 - Connection failed at Sat Aug 23 07:04:17 UTC 2025
+2025-08-23 07:04:22 - Connection failed at Sat Aug 23 07:04:22 UTC 2025
+2025-08-23 07:04:27 - Connection failed at Sat Aug 23 07:04:27 UTC 2025
+2025-08-23 07:04:32 - Connection failed at Sat Aug 23 07:04:32 UTC 2025
+2025-08-23 07:04:37 - Connection failed at Sat Aug 23 07:04:37 UTC 2025
+2025-08-23 07:04:42 - Connection failed at Sat Aug 23 07:04:42 UTC 2025
+2025-08-23 07:04:47 - Connection failed at Sat Aug 23 07:04:47 UTC 2025
+2025-08-23 07:04:52 - Connection failed at Sat Aug 23 07:04:52 UTC 2025
+2025-08-23 07:04:57 - Connection failed at Sat Aug 23 07:04:57 UTC 2025
+2025-08-23 07:05:03 - Connection failed at Sat Aug 23 07:05:02 UTC 2025
+2025-08-23 07:05:08 - Connection failed at Sat Aug 23 07:05:08 UTC 2025
+2025-08-23 07:05:13 - Connection failed at Sat Aug 23 07:05:13 UTC 2025
+2025-08-23 07:05:18 - Connection failed at Sat Aug 23 07:05:18 UTC 2025
+2025-08-23 07:05:23 - Connection failed at Sat Aug 23 07:05:23 UTC 2025
+2025-08-23 07:05:28 - Connection failed at Sat Aug 23 07:05:28 UTC 2025
+2025-08-23 07:05:33 - Connection failed at Sat Aug 23 07:05:33 UTC 2025
+2025-08-23 07:05:38 - Connection failed at Sat Aug 23 07:05:38 UTC 2025
+2025-08-23 07:05:43 - Connection failed at Sat Aug 23 07:05:43 UTC 2025
+2025-08-23 07:05:48 - Connection failed at Sat Aug 23 07:05:48 UTC 2025
+2025-08-23 07:05:53 - Connection failed at Sat Aug 23 07:05:53 UTC 2025
+2025-08-23 07:05:58 - Connection failed at Sat Aug 23 07:05:58 UTC 2025
+2025-08-23 07:06:03 - Connection failed at Sat Aug 23 07:06:03 UTC 2025
+2025-08-23 09:52:29 - Stress test complete with uptime: 40.27%
+2025-08-23 09:52:29 - Cleaning up client processes
+2025-08-23 09:52:29 - Killed client pid 7099
+2025-08-23 09:52:29 - Killed client pid 7106
+2025-08-23 09:52:30 - Killed client pid 7113
+2025-08-23 09:52:30 - Killed client pid 7120
+2025-08-23 09:52:30 - Killed client pid 7127
+2025-08-23 09:52:30 - Killed client pid 7134
+2025-08-23 09:52:30 - Killed client pid 7141
+2025-08-23 09:52:30 - Killed client pid 7148
+2025-08-23 09:52:30 - Killed client pid 7155
+2025-08-23 09:52:30 - Killed client pid 7162
+2025-08-23 09:52:30 - Killed client pid 7169
+2025-08-23 09:52:30 - Killed client pid 7176
+2025-08-23 09:52:30 - Killed client pid 7183
+2025-08-23 09:52:30 - Killed client pid 7190
+2025-08-23 09:52:30 - Killed client pid 7197
+2025-08-23 09:52:30 - Killed client pid 7204
+2025-08-23 09:52:30 - Killed client pid 7211
+2025-08-23 09:52:30 - Killed client pid 7218
+2025-08-23 09:52:30 - Killed client pid 7225
+2025-08-23 09:52:30 - Killed client pid 7232
+2025-08-23 09:52:30 - Killed client pid 7239
+2025-08-23 09:52:30 - Killed client pid 7246
+2025-08-23 09:52:30 - Killed client pid 7253
+2025-08-23 09:52:30 - Killed client pid 7260
+2025-08-23 09:52:30 - Killed client pid 7267
+2025-08-23 09:52:30 - Killed client pid 7274
+2025-08-23 09:52:30 - Killed client pid 7281
+2025-08-23 09:52:30 - Killed client pid 7288
+2025-08-23 09:52:30 - Killed client pid 7295
+2025-08-23 09:52:30 - Killed client pid 7302
+2025-08-23 09:52:30 - Killed client pid 7309
+2025-08-23 09:52:30 - Killed client pid 7316
+2025-08-23 09:52:30 - Killed client pid 7323
+2025-08-23 09:52:30 - Killed client pid 7330
+2025-08-23 09:52:30 - Killed client pid 7337
+2025-08-23 09:52:30 - Killed client pid 7344
+2025-08-23 09:52:30 - Killed client pid 7351
+2025-08-23 09:52:30 - Killed client pid 7358
+2025-08-23 09:52:30 - Killed client pid 7365
+2025-08-23 09:52:30 - Killed client pid 7372
+2025-08-23 09:52:30 - Killed client pid 7379
+2025-08-23 09:52:30 - Killed client pid 7386
+2025-08-23 09:52:30 - Killed client pid 7393
+2025-08-23 09:52:30 - Killed client pid 7400
+2025-08-23 09:52:30 - Killed client pid 7407
+2025-08-23 09:52:30 - Killed client pid 7414
+2025-08-23 09:52:31 - Killed client pid 7421
+2025-08-23 09:52:31 - Killed client pid 7428
+2025-08-23 09:52:31 - Killed client pid 7435
+2025-08-23 09:52:31 - Killed client pid 7442
+2025-08-23 09:52:31 - Stopping server
+2025-08-23 09:52:31 - Latency test results:
+Ping 1 latency: 26 ms
+Ping 2 latency: 24 ms
+Ping 3 latency: 16 ms
+Ping 4 latency: 24 ms
+Ping 5 latency: 30 ms
+2025-08-23 09:52:31 - === Chat Server Full Test Completed ===

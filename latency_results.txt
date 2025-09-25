@@ -1,0 +1,5 @@
+Ping 1 latency: 26 ms
+Ping 2 latency: 24 ms
+Ping 3 latency: 16 ms
+Ping 4 latency: 24 ms
+Ping 5 latency: 30 ms
